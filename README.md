@@ -22,8 +22,8 @@
 
 <a href="https://www.linkedin.com/in/%D8%B3%D9%8A%D9%81-%D8%B2%D8%B1%D9%8A%D9%86%D8%A9-703851232" target="_blank"><img src="https://img.shields.io/badge/-Saif Zerana-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/Saif1148" target="_blank"><img src="https://img.shields.io/badge/-Saif Zerana-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-
-<a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/lato-orange.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<!--
+<a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/lato-orange.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>-->
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
@@ -46,7 +46,7 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saif-Zerana&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
 <a href="https://komarev.com/ghpvc/?username=Saif-Zerana&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=Saif-Zerana&style=for-the-badge">
